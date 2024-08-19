@@ -1,4 +1,4 @@
-# Python Framework for DSGE models
+# Python Framework for DSGE modeling
  
 ## authors: Alexei Goumilevski (AGoumilevski@hotmail.com)
  
